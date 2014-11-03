@@ -1,5 +1,0 @@
-Git's repository test.
-mais informações
-para commit.
-!
-Mais uma tentativa de sync remoto!!!
